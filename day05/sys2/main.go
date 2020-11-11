@@ -11,7 +11,7 @@ func showMenu() {
 }
 
 func main() {
-	smr := studentInfo{ //修改全局的变量
+	smr := studentInfo{
 		allStudent: make(map[int64]student, 50),
 	}
 	for {

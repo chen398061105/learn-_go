@@ -37,6 +37,7 @@ func (s studentInfo) show() {
 		fmt.Println("暂无信息")
 		return
 	}
+	//v 值就是，map里面的student{id，name}
 	for _, v := range s.allStudent {
 		fmt.Println("===学生信息一览===")
 		fmt.Printf("学号：%d 姓名：%s \n", v.id, v.name)
