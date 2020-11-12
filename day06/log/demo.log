@@ -1,0 +1,354 @@
+[2020-11-12 23:52:55][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:52:55][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:52:55][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:52:55][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:52:55][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:52:55][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:52:56][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:52:56][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:52:56][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:52:56][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:52:56][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:52:56][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:52:57][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:52:57][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:52:57][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:52:57][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:52:57][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:52:57][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:52:58][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:52:58][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:52:58][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:52:58][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:52:58][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:52:58][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:52:59][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:52:59][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:52:59][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:52:59][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:52:59][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:52:59][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:00][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:00][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:00][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:00][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:00][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:00][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:01][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:01][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:01][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:01][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:01][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:01][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:02][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:02][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:02][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:02][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:02][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:02][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:03][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:03][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:03][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:03][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:03][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:03][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:04][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:04][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:04][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:04][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:04][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:04][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:05][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:05][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:05][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:05][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:05][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:05][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:06][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:06][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:06][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:06][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:06][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:06][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:07][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:07][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:07][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:07][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:07][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:07][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:08][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:08][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:08][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:08][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:08][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:08][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:09][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:09][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:09][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:09][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:09][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:09][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:10][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:10][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:10][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:10][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:10][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:10][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:11][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:11][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:11][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:11][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:11][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:11][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:12][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:12][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:12][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:12][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:12][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:12][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:13][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:13][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:13][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:13][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:13][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:13][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-12 23:53:14][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-12 23:53:14][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-12 23:53:14][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-12 23:53:14][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-12 23:53:14][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-12 23:53:14][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:05:55][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:05:55][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:05:55][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:05:55][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:05:55][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:05:55][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:05:56][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:05:56][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:05:56][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:05:56][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:05:56][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:05:56][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:05:57][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:05:57][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:05:57][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:05:57][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:05:57][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:05:57][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:05:58][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:05:58][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:05:58][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:05:58][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:05:58][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:05:58][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:05:59][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:05:59][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:05:59][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:05:59][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:05:59][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:05:59][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:00][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:00][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:00][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:00][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:00][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:00][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:01][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:01][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:01][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:01][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:01][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:01][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:02][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:02][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:02][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:02][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:02][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:02][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:03][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:03][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:03][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:03][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:03][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:03][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:04][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:04][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:04][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:04][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:04][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:04][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:05][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:05][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:05][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:05][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:05][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:05][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:06][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:06][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:06][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:06][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:06][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:06][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:07][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:07][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:07][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:07][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:07][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:07][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:08][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:08][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:08][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:08][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:08][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:08][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:09][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:09][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:09][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:09][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:09][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:09][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:10][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:10][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:10][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:10][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:10][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:10][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:11][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:11][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:11][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:11][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:11][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:11][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:12][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:12][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:12][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:12][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:12][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:12][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:13][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:13][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:13][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:13][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:13][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:13][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:14][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:14][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:14][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:14][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:14][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:14][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:15][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:15][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:15][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:15][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:15][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:15][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:16][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:16][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:16][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:16][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:16][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:16][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:17][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:17][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:17][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:17][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:17][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:17][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:18][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:18][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:18][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:18][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:18][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:18][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:19][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:19][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:19][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:19][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:19][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:19][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:20][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:20][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:20][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:20][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:20][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:20][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:21][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:21][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:21][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:21][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:21][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:21][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:22][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:22][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:22][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:22][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:22][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:22][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:23][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:23][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:23][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:23][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:23][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:23][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:24][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:24][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:24][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:24][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:24][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:24][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:25][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:25][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:25][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:25][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:25][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:25][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:26][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:26][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:26][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:26][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:26][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:26][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:27][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:27][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:27][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:27][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:27][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:27][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:28][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:28][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:28][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:28][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:28][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:28][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:29][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:29][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:29][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:29][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:29][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:29][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:30][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:30][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:30][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:30][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:30][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:30][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:31][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:31][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:31][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:31][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:31][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:31][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:32][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:32][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:32][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:32][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:32][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:32][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
+[2020-11-13 00:06:33][DEBUG][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Debug][fileName:file.go][Line:138]这是一条Debug日志信息,ID:1 Name:test 
+[2020-11-13 00:06:33][TRACE][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Trace][fileName:file.go][Line:143]这是一条Trace日志信息 
+[2020-11-13 00:06:33][INFO][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Info][fileName:file.go][Line:148]这是一条Info日志信息 
+[2020-11-13 00:06:33][WARNING][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Warning][fileName:file.go][Line:153]这是一条Warning日志信息 
+[2020-11-13 00:06:33][ERROR][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Error][fileName:file.go][Line:158]这是一条Error日志信息 
+[2020-11-13 00:06:33][FATAL][funcName:github.com/chen398061105/study/day07/mylog.(*FileLogger).Fatal][fileName:file.go][Line:163]这是一条Fatal日志信息 
