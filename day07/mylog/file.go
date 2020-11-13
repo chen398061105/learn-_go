@@ -84,15 +84,17 @@ func (f *FileLogger) splitFile(file *os.File) (*os.File, error) {
 	//备份新文件 xx.log->xxx.log.bak20201111
 	oldFile := path.Join(f.filePath, fileInfo.Name())
 	newFileName := fmt.Sprintf("%s.bak%s", oldFile, now)
+
 	//关闭当前文件
 	file.Close()
 	os.Rename(oldFile, newFileName)
 	//打开新的文件
-	fileObj, err := os.OpenFile(oldFile, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
+	fileObj, err := os.OpenFile(oldFile, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0777)
 	if err != nil {
 		fmt.Printf("open new file failed,err:%v", err)
 		return nil, err
 	}
+
 	//将打开的新文件对象打开f.fileObj
 	return fileObj, nil
 }
