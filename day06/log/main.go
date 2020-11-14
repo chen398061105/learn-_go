@@ -12,7 +12,7 @@ import (
 // logger.Debug() logger.warning() logger.Info() logger.Error() logger.Fatal()严重错误
 func main() {
 	// log := myloger.NewLog("debug") //控制台
-	log := myloger.NewFileLogger("debug", "./", "demo.log", 10*1024)
+	log := myloger.NewFileLogger("debug", "./", "demo.log", 1024)
 	//这是一条Debug日志信息,ID:%d Name:%s", id, name
 	//为了可以传其他的东西进去，不只是字符串
 	id := 1

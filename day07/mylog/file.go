@@ -45,8 +45,7 @@ func (f *FileLogger) initFile() error {
 		return err
 	}
 	//专门的错误日志
-	errFulelFileName := path.Join(f.filePath, f.fileName)
-	errFileObj, err := os.OpenFile("err_"+errFulelFileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	errFileObj, err := os.OpenFile("err_"+fulelFileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Printf("open err log file failed,err:%v\n", err)
 		return err
@@ -56,8 +55,8 @@ func (f *FileLogger) initFile() error {
 	f.errFileObj = errFileObj
 	return nil
 }
-func (f *FileLogger) enable(LogLevel LogLevel) bool {
-	return LogLevel >= f.level
+func (f *FileLogger) enable(logLevel LogLevel) bool {
+	return logLevel >= f.level
 }
 
 //按照文件大小切割
@@ -82,14 +81,15 @@ func (f *FileLogger) splitFile(file *os.File) (*os.File, error) {
 		return nil, err
 	}
 	//备份新文件 xx.log->xxx.log.bak20201111
-	oldFile := path.Join(f.filePath, fileInfo.Name())
-	newFileName := fmt.Sprintf("%s.bak%s", oldFile, now)
+	logFile := path.Join(f.filePath, fileInfo.Name())
+	newFileName := fmt.Sprintf("%s.bak%s", logFile, now)
 
 	//关闭当前文件
 	file.Close()
-	os.Rename(oldFile, newFileName)
+	os.Rename(logFile, newFileName)
 	//打开新的文件
-	fileObj, err := os.OpenFile(oldFile, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0777)
+	fileObj, err := os.OpenFile(logFile, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
+
 	if err != nil {
 		fmt.Printf("open new file failed,err:%v", err)
 		return nil, err
@@ -110,6 +110,7 @@ func (f *FileLogger) logFormat(level LogLevel, fortmat string, a ...interface{})
 		if f.checkSize(f.fileObj) {
 			newFile, err := f.splitFile(f.fileObj)
 			if err != nil {
+				fmt.Printf("普通输出错误err:%v", err)
 				return
 			}
 			f.fileObj = newFile
@@ -120,6 +121,7 @@ func (f *FileLogger) logFormat(level LogLevel, fortmat string, a ...interface{})
 			if f.checkSize(f.errFileObj) {
 				newFile, err := f.splitFile(f.errFileObj)
 				if err != nil {
+					fmt.Printf("err输出错误err:%v", err)
 					return
 				}
 				f.errFileObj = newFile
