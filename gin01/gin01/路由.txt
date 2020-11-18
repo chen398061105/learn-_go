@@ -1,0 +1,15 @@
+git框架路由 基于httprouter做的
+支持restful风格的api
+例子
+/blog/getXxx  GET  blog/Xxx
+/blog/addXxx  POST  blog/Xxx
+/blog/editXxx  PUT  blog/Xxx
+/blog/delXxx  DELETE  blog/Xxx
+
+表单参数
+post请求通过 PostForm请求，默认方法是form-data或x-www-form-urlencoded
+四种请求
+application/json
+application/x-www-form-urlencoded
+application/xml
+application/form-data
